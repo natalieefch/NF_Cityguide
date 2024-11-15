@@ -1,0 +1,4 @@
+git add .gitignore
+git commit -m "Ignore .DS_Store on macOS"
+
+
