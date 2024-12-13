@@ -33,3 +33,4 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 -   Rotterdam: kino
 -   Hamburg: cinemax
+When you are in Hamburg you should definetly avoid this place: the main train station at night
