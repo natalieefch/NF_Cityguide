@@ -1,0 +1,36 @@
+---
+title: "city-guide"
+format: html
+editor: visual
+---
+
+# **short introduction note**
+
+This is a Quarto file created for the version control course, including recommended place to go in Hamburg and Rotterdam.
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+## favorite cinema or theater
+
+-   Rotterdam: kino
+-   Hamburg: cinemax
+When you are in Hamburg you should definetly avoid this place: the main train station at night
