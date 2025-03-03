@@ -1,1 +1,56 @@
-Welcome to my city guide to Hamburg, Germany! In this city guide I will provide you with my personal recommendations which I have collected during the last year living here. 
+---
+title: "city-guide"
+format: html
+editor: visual
+author: "Natalie Fichte"
+---
+
+## City-Guide to Hamburg Germany!
+
+Welcome to my own personal city-guide to Hamburg Germany. I will provide you with my favorite cafes, bars, restaurants and things to do.
+
+## Restaurants:
+
+Edmondo
+
+Momo Ramen
+
+Flying Monkey Ottensen
+
+Gloria Pizza
+
+## Cafes:
+
+Knuth
+
+Rain Cafeatery
+
+Codos Altona
+
+Klippkroog
+
+### Bars:
+
+Reh Bar
+
+3 Zimmerwohnung
+
+Nick's
+
+Aurel
+
+Pelican
+
+Schnalke
+
+## Things to do:
+
+Planetarium
+
+Elbstrand
+
+Kino 3001
+
+Walk around the Alster
+
+Deichtorhallen
