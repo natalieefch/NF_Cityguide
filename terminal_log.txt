@@ -1,0 +1,16 @@
+  238  nano city-guide.txt
+  239  git add city-guide.txt
+  240  git status\n
+  241  git commit -m "Resolved merge conflict in city-guide.txt"\n
+  242  git status
+  243  git rebase --continue\n
+  244  git push origin main\n
+  245  git status
+  246  ls -la\n
+  247  nano .gitignore
+  248  nano .gitignore
+  249  git commit-m"Added gitignore"
+  250  git commit -m"added gitignore"
+  251  git add .gitignore
+  252  git push origin main
+  253  git push origin main
