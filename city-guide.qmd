@@ -1,0 +1,22 @@
+Hello and a lovely welcome to my city-guide to Hamburg Germany. Here I have decided to create a quarto file to name some of my favorite places in Hamburg!
+
+My favorite areas in Hamburg are 
+- Ottensen
+- Sternschanze
+- Hoheluft 
+- Winterhude 
+
+My favorite cafes are
+- Rain Cafeatery
+- Knuth
+- 44qm
+- Lowinsky's
+
+My favorite restaurants are 
+- Momo Ramen 
+- Edmondo
+- Kiosque 
+
+My favorite cinemas are 
+-3001 in Sternschanze 
+- Zeise Kinos
