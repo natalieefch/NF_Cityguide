@@ -1,4 +1,3 @@
-D
 Hamburg:
 
 UNDERDOCKS in Schanze/St.Pauli
@@ -6,8 +5,8 @@ Hamburg Planetarium
 
 - It is one of the world's oldest, and one of Europe's most visited planetariums.
 - It is located in the district of Winterhude, Hamburg, Germany.
-<<<<<<< HEAD
 
-=======
 Best place: Nick's Bar
->>>>>>> 02806c6 (Nick's Bar in main)
+Add Knuth in Ottensen
+Best place: Reh Bar
+
